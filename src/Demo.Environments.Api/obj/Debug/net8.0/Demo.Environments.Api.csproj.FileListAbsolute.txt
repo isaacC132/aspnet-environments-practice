@@ -32,3 +32,5 @@ C:\Users\isaac\Desktop\aspnet-environments-practice\src\Demo.Environments.Api\ob
 C:\Users\isaac\Desktop\aspnet-environments-practice\src\Demo.Environments.Api\obj\Debug\net8.0\Demo.Environments.Api.pdb
 C:\Users\isaac\Desktop\aspnet-environments-practice\src\Demo.Environments.Api\obj\Debug\net8.0\Demo.Environments.Api.genruntimeconfig.cache
 C:\Users\isaac\Desktop\aspnet-environments-practice\src\Demo.Environments.Api\obj\Debug\net8.0\ref\Demo.Environments.Api.dll
+C:\Users\isaac\Desktop\aspnet-environments-practice\src\Demo.Environments.Api\bin\Debug\net8.0\appsettings.Production.json
+C:\Users\isaac\Desktop\aspnet-environments-practice\src\Demo.Environments.Api\bin\Debug\net8.0\appsettings.Staging.json
